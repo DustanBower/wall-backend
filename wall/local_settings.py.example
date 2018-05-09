@@ -1,0 +1,8 @@
+SEND_EMAIL = True # to send email
+EMAIL_HOST = '<email host>'
+EMAIL_HOST_USER = '<email host user>' 
+EMAIL_HOST_PASSWORD = '<email password>'
+EMAIL_PORT = 587 # port that email uses
+EMAIL_USE_TLS = True # whether to use secure connection
+
+NOTIFICATION_EMAIL = "<email address to show on outgoing mail>"
